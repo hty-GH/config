@@ -13,6 +13,12 @@ eureka:
     config:
       override-none: true
 
+rabbitmq:
+    host: 192.168.92.133
+    port: 5672
+    username: admin
+    password: admin
+
 ---
 spring:
   profiles: item1
