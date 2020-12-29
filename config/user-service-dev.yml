@@ -27,15 +27,15 @@ management:
 ---
 
 
-spring:
-  profiles: user1
-  
-server:
-   port: 8101
-  
---- 
- spring:
-  profiles: user2
-  
- server:
-   port: 8102
+#spring:
+#  profiles: user1
+#  
+#server:
+#   port: 8101
+#  
+#--- 
+# spring:
+#  profiles: user2
+#  
+# server:
+#   port: 8102
